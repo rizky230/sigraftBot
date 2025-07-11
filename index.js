@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'mc.serverkamu.com', // Ganti ini ke IP server kamu
-    port: 25565,
+    host: 'Sigrafts2.aternos.me', // Ganti ini ke IP server kamu
+    port: 61788,
     username: 'BotSigraft',
     version: false
   });
