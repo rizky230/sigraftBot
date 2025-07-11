@@ -1,0 +1,12 @@
+{
+  "name": "sigraft-mc-bot",
+  "version": "1.0.0",
+  "description": "Bot Minecraft aktif 24 jam di Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.1"
+  }
+}
